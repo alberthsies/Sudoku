@@ -1,0 +1,3 @@
+# Sudoku
+
+c++ solve sudoku
